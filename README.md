@@ -15,8 +15,8 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/cserashedul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rashedul.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF9jpcy25APywAAAZn9dw2wRxccowCAqXuj4FffihpC_Xsj4z_FYnBPtuqSFqoiyFF1CNsGt0pNLGXQsY7wMQkcsdTq_9LDq2A9VCBu7bOPCd2vCM3o5p3zArMWxAXLy-zwrgc=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcserashedul%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cserashedul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,23 +30,23 @@
 
 ## 📌 Featured Projects  
 
-### 🛍️ [Shoppixel](https://github.com/cserashed/Shoppixel)  
+### 🛍️ [Klypto](https://klypto-ecommerce.netlify.app)  
 > A modern **eCommerce platform** with product management, cart, and checkout flow.  
-🔗 [Live Demo](https://your-live-demo-link.com) • [Source Code](https://github.com/cserashed/Shoppixel)  
+🔗 [Live Demo](https://klypto-ecommerce.netlify.app)   
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=firebase)
 
 ---
 
-### 🍽️ [Smart Mess Management](https://github.com/cserashed/smart-mess-management)  
+### 🍽️ [Smart Mess Management](https://smart-mess-management-frontend.vercel.app)  
 > A **mess management system** to track meals, expenses, and automate calculations.  
-🔗 [Live Demo](https://your-live-demo-link.com) • [Source Code](https://github.com/cserashed/smart-mess-management)  
+🔗 [Live Demo](https://smart-mess-management-frontend.vercel.app) 
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
 ---
 
-### 🌐 [Portfolio Website](https://github.com/cserashed/portfolio)  
+### 🌐 [Portfolio Website](https://rashed-web-dev.netlify.app)  
 > My **personal portfolio** showcasing skills, projects, and achievements.  
-🔗 [Live Demo](https://your-live-demo-link.com) • [Source Code](https://github.com/cserashed/portfolio)  
+🔗 [Live Demo](https://rashed-web-dev.netlify.app)  
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![FramerMotion](https://img.shields.io/badge/-FramerMotion-0055FF?style=flat&logo=framer)
 
 ---
@@ -98,3 +98,4 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😅
 <div align="center">
   <h3>💡 "Keep Learning. Keep Building. Keep Growing." 💡</h3>
 </div>
+
