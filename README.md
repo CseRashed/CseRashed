@@ -1,14 +1,19 @@
 <!-- 🔥 Modern Professional GitHub Profile README -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=cserashed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm MD. Rashedul Islam</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi, I'm MD. Rashedul Islam</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps" />
 </p>
 
+---
+
 <div align="center">
-  <img src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" alt="coding gif" width="400"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="500" width="1000"/>
 </div>
 
 ---
@@ -23,19 +28,18 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,figma,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,next,tailwind,postgresql,js,react,nodejs,express,mongodb,firebase,git,figma,vscode&perline=6" />
 </p>
 
 ---
 
-## 📌 Featured Projects  
-
-### 🛍️ [Klypto](https://klypto-ecommerce.netlify.app)  
-> A modern **eCommerce platform** with product management, cart, and checkout flow.  
-🔗 [Live Demo](https://klypto-ecommerce.netlify.app)   
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=firebase)
+### 🌐 [Portfolio Website](https://portfolio-two-zeta-yhennju5fl.vercel.app)  
+> My **personal portfolio** showcasing skills, projects, and achievements.  
+🔗 [Live Demo](https://portfolio-two-zeta-yhennju5fl.vercel.app)  
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![FramerMotion](https://img.shields.io/badge/-FramerMotion-0055FF?style=flat&logo=framer)
 
 ---
+## 📌 Featured Projects  
 
 ### 🍽️ [Smart Mess Management](https://smart-mess-management-frontend.vercel.app)  
 > A **mess management system** to track meals, expenses, and automate calculations.  
@@ -44,19 +48,10 @@
 
 ---
 
-### 🌐 [Portfolio Website](https://rashed-web-dev.netlify.app)  
-> My **personal portfolio** showcasing skills, projects, and achievements.  
-🔗 [Live Demo](https://rashed-web-dev.netlify.app)  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![FramerMotion](https://img.shields.io/badge/-FramerMotion-0055FF?style=flat&logo=framer)
-
----
-
-## 🚀 Currently Learning  
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
+### 🛍️ [Klypto](https://klypto-ecommerce.netlify.app)  
+> A modern **eCommerce platform** with product management, cart, and checkout flow.  
+🔗 [Live Demo](https://klypto-ecommerce.netlify.app)   
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=firebase)
 
 ---
 
